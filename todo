@@ -1,0 +1,39 @@
+
+Things required to be done:
+
+Minor changes: 
+
+    Addition:
+        --> Link the analytics bootcamp card to /learn
+        --> Link project labs to /projects a new page
+        --> Link Skils and certification card to /roadmap a new page
+        --> Link Industry card to /past-speakers 
+        --> Link Case comp link the google sheet as a web page to the website.
+
+    Deletion:
+        --> Remove 
+            ..The testimonials section
+            ..Impacts and achievements
+            ..Timeline
+
+Major Changes:
+
+    Addition:
+        --> New page 
+            /blogs
+            /projects
+            /roadmap
+            /past-speakers
+            case comp
+
+        --> Implement backend for 
+            /blogs
+            /projects
+            /roadmap
+            /past-speakers
+
+        --> Impelement meesages backend
+            
+    Deletion:       
+        
+
