@@ -1107,3 +1107,16 @@ body::after {
         gap: 8px;
     }
 }
+.hero-heading {
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: #1f3a93;
+}
+
+.cta-btn {
+  background-color: #ff9f1c;
+  padding: 12px 24px;
+  border-radius: 6px;
+  color: white;
+}
+
